@@ -1,3 +1,2 @@
 # trial
-*trial
-x
+I will be explaining some structures of our development process.
